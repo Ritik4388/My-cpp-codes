@@ -13,7 +13,7 @@ int main()
      int swap = 1;
      while(swap!=0){
          swap = 0;
-         for(int j=0; j<n-1; j++){       //j<n-1 bcoz at (n-1)th index is last and we can't (j+1) there.
+         for(int j=0; j<n-1; j++){       //j<n-1 as (n-1)th index is last and we can't (j+1) there.
          if(a[j]>a[j+1]){
              int temp;
              temp = a[j] ;
