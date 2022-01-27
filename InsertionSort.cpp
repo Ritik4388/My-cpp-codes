@@ -11,7 +11,7 @@ int main(){
          cin >> a[i];
      }
     
-     for(int i=2; i<n; i++){
+     for(int i=1; i<n; i++){
 
          while(a[i]<a[i-1]){
 
