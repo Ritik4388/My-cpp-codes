@@ -1,4 +1,4 @@
-//using dynamic array.
+//Sorting a dynamically allocated array by Bubble Sort method.
 
 #include<iostream>
 using namespace std;
