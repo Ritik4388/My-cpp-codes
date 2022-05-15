@@ -1,0 +1,1 @@
+{"name":"Local: AP","url":"/home/ritik/Documents/c++ codes/AP.cpp","tests":[{"id":1643640167569,"input":"3\n42\n23\n377\n","output":"42\n28\n777\n"},{"id":1643640178130,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ritik/Documents/c++ codes/AP.cpp","group":"local","local":true}
